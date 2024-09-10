@@ -1,0 +1,124 @@
+{
+  "movies": [
+    {
+      "id": 1,
+      "title": "Dune",
+      "genre": "Sci-Fi",
+      "description": "A young noble inherits a dangerous planet and must fight to protect it from evil forces.",
+      "image": "https://images-cdn.ubuy.co.in/6355c8013cefba3a8d6dc4e7-dune-movie-poster-27-x-40.jpg",
+      "release_date": "2021-10-22"
+    },
+    {
+      "id": 2,
+      "title": "No Time to Die",
+      "genre": "Action",
+      "description": "James Bond faces off against a dangerous villain in his final mission as 007.",
+      "image": "https://images-cdn.ubuy.co.id/636b04c3114c9d4a86576c33-no-time-to-die-james-bond-007-movie.jpg",
+      "release_date": "2021-09-30"
+    },
+    {
+      "id": 3,
+      "title": "The Batman",
+      "genre": "Action",
+      "description": "Bruce Wayne, as Batman, investigates a serial killer terrorizing Gotham City.",
+      "image": "https://m.media-amazon.com/images/I/71LLvlT+40L._SL1500_.jpg",
+      "release_date": "2022-03-04"
+    },
+    {
+      "id": 4,
+      "title": "Top Gun: Maverick",
+      "genre": "Action",
+      "description": "Pete 'Maverick' Mitchell, a seasoned fighter pilot, is tasked with training a group of elite graduates for a dangerous mission.",
+      "image": "https://m.media-amazon.com/images/I/71BokibfVUL._AC_SL1500_.jpg",
+      "release_date": "2022-05-27"
+    },
+    {
+      "id": 5,
+      "title": "Avatar: The Way of Water",
+      "genre": "Sci-Fi",
+      "description": "Jake Sully and Neytiri form a family and must protect their home from new threats.",
+      "image": "https://m.media-amazon.com/images/I/91rGc0FAcyL._SL1500_.jpg",
+      "release_date": "2022-12-16"
+    },
+    {
+      "id": 6,
+      "title": "The Matrix Resurrections",
+      "genre": "Sci-Fi",
+      "description": "Neo is freed from the Matrix once again and must face a new threat to humanity.",
+      "image": "https://image.tmdb.org/t/p/original/8c4a8kE7PizaGQQnditMmI1xbRp.jpg",
+      "release_date": "2021-12-22"
+    },
+    {
+      "id": 7,
+      "title": "Free Guy",
+      "genre": "Action",
+      "description": "A bank teller discovers he's actually a character in a video game.",
+      "image": "https://image.tmdb.org/t/p/original/xmbU4JTUm8rsdtn7Y3Fcm30GpeT.jpg",
+      "release_date": "2021-08-13"
+    },
+    {
+      "id": 8,
+      "title": "The Suicide Squad",
+      "genre": "Action",
+      "description": "A group of supervillains are tasked with a dangerous mission.",
+      "image": "https://images-cdn.ubuy.co.in/634d0e8a0881901341339b88-the-suicide-squad-movie-poster-masks.jpg",
+      "release_date": "2021-08-06"
+    },
+    {
+      "id": 9,
+      "title": "Spider-Man: No Way Home",
+      "genre": "Action",
+      "description": "Peter Parker's identity is revealed, forcing him to team up with past Spider-Men to defeat a powerful villain.",
+      "image": "https://m.media-amazon.com/images/I/815zgARVaRL._AC_SL1500_.jpg",
+      "release_date": "2021-12-17"
+    },
+    {
+      "id": 10,
+      "title": "Eternals",
+      "genre": "Action",
+      "description": "Ancient beings known as Eternals are forced to reveal themselves to protect the Earth from the Deviants.",
+      "image": "https://m.media-amazon.com/images/I/81QxTlCOn4L._SL1500_.jpg",
+      "release_date": "2021-11-05"
+    },
+    {
+      "id": 11,
+      "title": "Shang-Chi and the Legend of the Ten Rings",
+      "genre": "Action",
+      "description": "Shang-Chi, a master of martial arts, must confront his past and fight against the Ten Rings organization.",
+      "image": "https://m.media-amazon.com/images/I/813f5y-8UjL._SL1500_.jpg",
+      "release_date": "2021-09-03"
+    },
+    {
+      "id": 12,
+      "title": "Cruella",
+      "genre": "Crime",
+      "description": "The story of Cruella de Vil's rise to power.",
+      "image": "https://m.media-amazon.com/images/I/71id+mXQ0hL._AC_SL1484_.jpg",
+      "release_date": "2021-05-28"
+    },
+    {
+      "id": 13,
+      "title": "Black Widow",
+      "genre": "Action",
+      "description": "Natasha Romanoff confronts her past and fights against a dangerous conspiracy.",
+      "image": "https://m.media-amazon.com/images/I/71lADxngTWS._AC_SL1050_.jpg",
+      "release_date": "2021-07-09"
+    },
+    {
+      "id": 14,
+      "title": "The French Dispatch",
+      "genre": "Comedy",
+      "description": "A collection of stories from an American newspaper bureau in a fictional French city.",
+      "image": "https://lumiere-a.akamaihd.net/v1/images/p_20cs_thefrenchdispatch_22167_94874d03.jpeg?region=0%2C0%2C540%2C810",
+      "release_date": "2021-10-22"
+    },
+    {
+      "id": 15,
+      "title": "Doctor Strange in the Multiverse of Madness",
+      "genre": "Sci-Fi",
+      "description": "Doctor Strange navigates the multiverse to protect reality from an ominous threat.",
+      "image": "https://images-cdn.ubuy.co.in/633b46d605bcb21c8f7701c8-doctor-strange-in-the-multiverse-of.jpg",
+      "release_date": "2022-05-06"
+    }
+  ]
+}
